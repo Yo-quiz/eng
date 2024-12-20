@@ -7,7 +7,7 @@ const yoKaiList = [
     { name: "Cutta-nah-nah", img: "katananai.png" },
     { name: "Slacka-slash", img: "katakroken.png" },
     { name: "Mochismo", img: "mochimacho.png" },
-    { name: "Miinochi", img: "machimio.png" },
+    { name: "Minochi", img: "machimio.png" },
     { name: "Helmsman", img: "yelmandante.png" },
     { name: "Reuknight", img: "juntollero.png" },
     { name: "Corptain", img: "genedaver.png" },
