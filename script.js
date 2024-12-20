@@ -238,7 +238,7 @@ const yoKaiList = [
 { name: "Hoggles", img: "jabalupo.png" },
 { name: "Styx Mk.VI", aliases: ["Styx Mk.VI", "Styx Mk. VI", "Styx Mk VI"], img: "estigio_vi.png" },
 { name: "Clipso", img: "clipso.png" },
-{ name: "Dr. Nogut", aliases: ["dr. nogut", "dr nogut", "doctor nogut"], img: "img/dr._sintripas.png" },
+{ name: "Dr. Nogut", aliases: ["dr. nogut", "dr nogut", "doctor nogut"], img: "dr._sintripas.png" },
 { name: "Spooklunk", img: "terrormadura.png" },
 { name: "Squisker", img: "calarrupto.png" },
 { name: "Wobblewok", img: "caldewok.png" },
